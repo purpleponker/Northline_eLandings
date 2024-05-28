@@ -2,7 +2,7 @@
 documentation on Northline eLandings fish ticketing
 
 ## laptop sign in and launching instructions
-see instruction.md
+see [instructions markdown](instructions.md)
 
 ## elandings configuration and sign in
-see elandings.md
+see [elandings markdown](elandings.md)
