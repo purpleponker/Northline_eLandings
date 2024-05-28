@@ -2,7 +2,7 @@
 
 > This is a quick guide for tLandings, including laptop sign in information and tLandings initial set up
 
-<!-- toc -->
+<!--description-->
 
 - [laptop start up](#laptop-startup)
   * [login info](#login-info)
