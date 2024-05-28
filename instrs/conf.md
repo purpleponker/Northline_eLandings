@@ -2,10 +2,10 @@
 this directory includes configuration profiles which can be downloaded for importing into eLandings. Once a profile has been imported it can then be used to configure USB drives to be distributed to Tenders.
 
 ## config profile
-<a href="/config/cfg_NL_Salmon.xml" download="cfg_NL_Salmon.xml"> config profile </a> configuration profile for the operations supplied to a specified tender
+<a href="../config/cfg_NL_Salmon.xml" download="cfg_NL_Salmon.xml"> config profile </a> configuration profile for the operations supplied to a specified tender
 
 ## species defaults
-[species defaults](speciesDefaults_NL-salmon-species.xml)this is a subsidiary configuration profile for an operation profile on a given tender
+[species defaults](../config/speciesDefaults_NL-salmon-species.xml)this is a subsidiary configuration profile for an operation profile on a given tender
 
 ## importing a confg profile
 - start by seleting the Northline Operation and selecting a Tender
