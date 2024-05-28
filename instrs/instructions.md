@@ -30,7 +30,7 @@ the two sign in options can be accessed below the text box to change sign in opt
 ## launching tLandings
 
 ### recommended method
-on the desktop screen is an icon called 'launch_tLandings_USB.bat' double click the program icon which will scan for the tLandings executable installed on USB drives. Successful scans for the executable will display a brief message on the terminal and launching the executable. The message will display for 5 seconds before timeing out and closing.
+on the desktop screen is an icon called 'launch_tLandings_USB.bat' double click the program icon which will scan for the tLandings executable installed on USB drives. Successful scans for the executable results in displaying a brief message on the terminal and launching the executable. The message will display for 5 seconds before timeing out and closing.
 
 ![quick launch icon](/imgs/quick_launch.png)
 
