@@ -22,7 +22,7 @@ PIN - northline
 
 Password - Northline1
 
-![log in section](imgs/log_in.png)
+![log in section](/imgs/log_in.png)
 
 the two sign in options can be accessed below the text box to change sign in options, the default option is to use the PIN
 
