@@ -12,4 +12,4 @@ documentation on Northline eLandings fish ticketing
 ## Northline Information
 
 * ### configuration profiles for eLandings 
-    see [configuration profiles](config)
+    see [configuration profiles](config/conf.md)
