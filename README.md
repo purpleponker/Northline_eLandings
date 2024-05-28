@@ -4,12 +4,12 @@ documentation on Northline eLandings fish ticketing
 ## Tender information
 
 * ### laptop sign in and launching instructions
-    see [laptop login instructions](data/instrs/instructions.md)
+    see [laptop login instructions](https://github.com/purpleponker/Northline_eLandings/blob/main/data/instrs/instructions.md)
 
 * ### elandings / tLandings ticketing and sign in
-    see [tlandings sign in and ticketing](data/instrs/tLandings.md)
+    see [tlandings sign in and ticketing](https://github.com/purpleponker/Northline_eLandings/blob/main/data/instrs/tLandings.md)
 
 ## Northline Information
 
 * ### configuration profiles for eLandings 
-    see [configuration profiles](data/instrs/conf.md)
+    see [configuration profiles](https://github.com/purpleponker/Northline_eLandings/blob/main/data/instrs/conf.md)
