@@ -1,5 +1,5 @@
-# Northline
-documentation on Northline eLandings fish ticketing
+# Northline Seafoods
+documentation on Northline Seafoods eLandings and tLandings fish ticketing
 
 ## Tender information
 
