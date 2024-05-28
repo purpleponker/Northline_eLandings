@@ -2,7 +2,7 @@
 this directory includes configuration profiles which can be downloaded for importing into eLandings. Once a profile has been imported it can then be used to configure USB drives to be distributed to Tenders.
 
 ## config profile
-<a href="../config.zip" download="config.zip"> config profile </a> configuration profile for the operations supplied to a specified tender
+<a href="https://github.com/purpleponker/Northline_eLandings/raw/main/config.zip" download="config.zip"> config profile </a> configuration profile for the operations supplied to a specified tender
 
 ## species defaults
 [species defaults](../config/speciesDefaults_NL-salmon-species.xml)this is a subsidiary configuration profile for an operation profile on a given tender
