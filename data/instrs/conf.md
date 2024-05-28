@@ -13,7 +13,7 @@ start by downloading the <a href="https://github.com/purpleponker/Northline_eLan
 - click 'Customize Install' button, then 'Manage Files' followed by the 'Install Files' and then finally click 'Ok'
 
 ![custom install location](../imgs/import_profile.png)
-- drag and drop the desired profiles into the file explower browser for the PTI program, be sure NOT to drop the files into one of the internal folders
+- drag and drop the desired profiles into the file explorer browser for the PTI program, be sure NOT to drop the files into one of the internal folders
 
 ![drag files here](../imgs/drag_here.png)
 
