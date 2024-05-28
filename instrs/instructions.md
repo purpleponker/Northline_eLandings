@@ -69,6 +69,7 @@ if the USB icon does not appear on the task bar right clik on the task bar and s
 once in the settings menus click on the 'Other system tray icons' and ensure the 'Safely Remove Hardware and Eject Media' toggle is on
 ![eject setting for task bar](/imgs/eject_setting.png)
 
+[return to top](#tLandings-quick-guide)
 
 
 
