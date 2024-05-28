@@ -5,4 +5,4 @@ documentation on Northline eLandings fish ticketing
 see [instructions markdown](instrs/instructions.md)
 
 ## elandings / tLandings configuration and sign in
-see [tlandings markdown](instrs/tlandings.md)
+see [tlandings markdown](instrs/tLandings.md)
