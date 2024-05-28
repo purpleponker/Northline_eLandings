@@ -34,7 +34,7 @@ on the desktop screen is an icon called 'launch_tLandings_USB.bat' double click 
 
 ![quick launch icon](/imgs/quick_launch.png)
 
-*Please note on your first launch of tLandings the program may have a slight delay while launching, however if your terminal message was successful scan return then the program will launch after initializtion and loading.
+*Please note on your first launch of tLandings the program may have a slight delay while launching, however if your terminal message was a successful scan return then the program will launch after initializtion and loading.
 
 ![successful tLanding scan and launch](/imgs/successful_scan.png)
 
