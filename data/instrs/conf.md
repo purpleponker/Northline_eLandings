@@ -10,6 +10,8 @@ this directory includes configuration profiles which can be downloaded for impor
 ## importing a confg profile
 start by downloading the <a href="https://github.com/purpleponker/Northline_eLandings/raw/main/data/config.zip" download="config.zip"> config profile </a> folder which contains all the profiles available, or download a specific profile above using the download button in the file locations upper right tab bar.
 - start by seleting the Northline Operation and selecting a Tender
+
+![custom install location](../data/imgs/import_profile.png)
 - click 'Customize Install' button, then 'Manage Files' followed by the 'Install Files' and then finally click 'Ok'
 - drag the desired profiles into the file explower browser for the PTI program (this is likely both the config profile AND the species default profiles downloaded above)
 
