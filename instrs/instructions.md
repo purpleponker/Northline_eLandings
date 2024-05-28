@@ -55,7 +55,7 @@ if the launcher fails to find the tLandings execution on a USB it will respond a
 ![failed scan](/imgs/fail_scan.png)
 
 ### failed launch troubleshooting
-- attempt the manual launch option
+- attempt the [manual launch](#manual-launch) option
 - ensure USB is pluged in and has been configured with tLandings
 - if USB is plugged in but not appearing it may been ejected either by mistake or accidentally, so unplug and replug the USB drive in.
   
