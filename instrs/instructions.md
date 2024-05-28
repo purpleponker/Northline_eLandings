@@ -4,15 +4,16 @@
 
 <!-- toc -->
 
-- [laptop start up](#heading)
-  * [login info](#sub-heading)
-- [launch tLandings](#heading)
-  * [recommended](#sub-heading)
-  * [manual launch](#sub-heading)
-- [launcher failed](#heading)
-- [closing](#heading)
+- [laptop start up](#laptop-startup)
+  * [login info](#login-info)
+- [launch tLandings](#launch-tLandings)
+  * [recommended](#recommended-method)
+  * [manual launch](#manual-launch)
+- [launcher failed](#launcher-failed)
+  * [failed launch troubleshooting](#failed-launch-troubleshooting)
+- [closing](#closing)
 
-## laptop start up
+## laptop startup
 login options are two-fold: the recomended option is to use the PIN which is northline.
 If for some reason the PIN is not working or the sign-in options switch to password you can login with password: Northline1
 
@@ -53,7 +54,7 @@ if the launcher fails to find the tLandings execution on a USB it will respond a
 
 ![failed scan](/imgs/fail_scan.png)
 
-### failed launch trouble shooting
+### failed launch troubleshooting
 - attempt the manual launch option
 - ensure USB is pluged in and has been configured with tLandings
 - if USB is plugged in but not appearing it may been ejected either by mistake or accidentally, so unplug and replug the USB drive in.
