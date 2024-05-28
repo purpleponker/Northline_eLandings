@@ -39,7 +39,7 @@ on the desktop screen is an icon called 'launch_tLandings_USB.bat' double click 
 ![successful tLanding scan and launch](/imgs/successful_scan.png)
 
 ### manual launch
-alternatively if that does not work or you would rather manually launch tLandings: first navigate to the file explorer icon on the task bar(you can search for file explorer in the search bar as well)
+alternatively if the launcher does not work or you would rather manually launch tLandings: first navigate to the file explorer icon on the task bar(you can search for 'file explorer' in the search bar as well)
 
 ![file explorer](/imgs/file_explorer.png)
 
