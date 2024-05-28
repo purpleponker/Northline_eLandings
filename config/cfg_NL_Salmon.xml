@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workstation_info>
+    <schema_version>5.9</schema_version>
+    <workstation_config>
+        <workstation_id>2885</workstation_id>
+        <vessel>99998</vessel>
+        <location>NL Salmon</location>
+        <installed_by_user>pti</installed_by_user>
+        <operating_system>OS</operating_system>
+        <operating_system_version>1.0</operating_system_version>
+        <install_date>2024-05-21T06:45:39.969-08:00</install_date>
+        <destination_mail_address>elandings@alaska.gov</destination_mail_address>
+        <transmit_type>File</transmit_type>
+        <home_directory>data</home_directory>
+        <root_directory>data</root_directory>
+        <import_directory>data</import_directory>
+        <export_directory>data/export</export_directory>
+        <receipt_directory>data</receipt_directory>
+        <log_file_name>tlandings.log</log_file_name>
+        <max_login_retrys>3</max_login_retrys>
+        <transmit_log>false</transmit_log>
+        <enable_em>false</enable_em>
+        <landing_report_number_threshold>1</landing_report_number_threshold>
+        <landing_report_number_request_increment>30</landing_report_number_request_increment>
+        <fish_ticket_number_threshold>1</fish_ticket_number_threshold>
+        <fish_ticket_number_request_increment>30</fish_ticket_number_request_increment>
+        <test_mode>Training</test_mode>
+        <version_label>2023.12.28-13.17.15</version_label>
+        <build_number>0</build_number>
+        <dock_delivery>false</dock_delivery>
+        <default_date_fishing_began>false</default_date_fishing_began>
+        <default_time_of_landing>true</default_time_of_landing>
+        <generate_tally_with_ticket>false</generate_tally_with_ticket>
+        <default_number_of_tally_sheets_to_print>2</default_number_of_tally_sheets_to_print>
+        <default_stat_area>false</default_stat_area>
+        <default_nearest_bay_or_headland>false</default_nearest_bay_or_headland>
+        <default_fishing_period>false</default_fishing_period>
+        <overlimit_in_effect>false</overlimit_in_effect>
+        <overlimit_species>460</overlimit_species>
+        <species_defaults_source>speciesDefaults_NL-salmon-species.xml</species_defaults_source>
+        <starting_font_size>14</starting_font_size>
+        <update_server_vessel_list>true</update_server_vessel_list>
+        <update_local_vessel_list>true</update_local_vessel_list>
+        <missing_tare_weight_warning>false</missing_tare_weight_warning>
+        <compress_webservices_data>true</compress_webservices_data>
+        <tool_bar_color>Gray</tool_bar_color>
+        <type_of_landing_report>B</type_of_landing_report>
+        <use_signature_pad>false</use_signature_pad>
+        <legacy_logbook_enabled>false</legacy_logbook_enabled>
+        <onscreen_keyboard>false</onscreen_keyboard>
+        <receipt_printer>false</receipt_printer>
+        <black_background_colors>false</black_background_colors>
+        <salmon_report_elements>
+            <report_element>
+                <element>Dual Salmon Permit button</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Gear</element>
+                <hidden>false</hidden>
+                <default_prior_vessel>true</default_prior_vessel>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Gear name</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Paper Fish Ticket</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Processor Code (Owner)</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Management Program</element>
+                <hidden>false</hidden>
+                <default_value>LE</default_value>
+            </report_element>
+            <report_element>
+                <element>Port of Landing</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Date Fishing Began</element>
+                <hidden>false</hidden>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Date Fishing Ended(troll)</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Date of Landing</element>
+                <hidden>false</hidden>
+                <default_value>SYSTEM</default_value>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Time of Landing</element>
+                <hidden>false</hidden>
+                <default_value>SYSTEM</default_value>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+            </report_element>
+            <report_element>
+                <element>Fishing Period</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Nearest Bay or Headland</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Chill Type</element>
+                <hidden>true</hidden>
+                <default_prior_vessel>true</default_prior_vessel>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Temperatures</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Chill Water Temp</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>QA Probe Score</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Stat Area Worksheet</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Dock Delivery</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Partial Delivery</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Brailers Met Criteria</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Slide</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Floating</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>QA Graph</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Deck Load</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Scale Loss</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Generate Tally Sheet button</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Tally Invoice</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Total Tare Weight</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+        </salmon_report_elements>
+        <groundfish_report_elements>
+            <report_element>
+                <element>Crew Size</element>
+                <hidden>false</hidden>
+                <default_prior_vessel>true</default_prior_vessel>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Gear</element>
+                <hidden>false</hidden>
+                <default_prior_vessel>true</default_prior_vessel>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Gear name</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Gear modifier</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Paper Fish Ticket</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Processor Code (Owner)</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Federal Permit Number</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Management Program</element>
+                <hidden>false</hidden>
+                <default_value>OA</default_value>
+                <allow_default_value>true</allow_default_value>
+            </report_element>
+            <report_element>
+                <element>Management Program ID</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Management Program Modifier</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Port of Landing</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Date Fishing Began</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Days Fished</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Date of Landing</element>
+                <hidden>false</hidden>
+                <default_value>SYSTEM</default_value>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Time of Landing</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+            </report_element>
+            <report_element>
+                <element>Number of Observers</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Discard Report</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Tender Offload Number</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Receipt Latitude</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Receipt Longitude</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Stat Area Worksheet</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Dock Delivery</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Partial Delivery</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Generate Tally Sheet button</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Tally Invoice</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+        </groundfish_report_elements>
+        <crab_report_elements>
+            <report_element>
+                <element>Crew Size</element>
+                <hidden>false</hidden>
+                <default_prior_vessel>true</default_prior_vessel>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Gear</element>
+                <hidden>false</hidden>
+                <default_prior_vessel>true</default_prior_vessel>
+                <allow_default_from_vessel>true</allow_default_from_vessel>
+            </report_element>
+            <report_element>
+                <element>Gear name</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Paper Fish Ticket</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Processor Code (Owner)</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Federal Permit Number</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Management Program</element>
+                <hidden>false</hidden>
+                <default_value>LE</default_value>
+                <allow_default_value>true</allow_default_value>
+            </report_element>
+            <report_element>
+                <element>Management Program ID</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Port of Landing</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Date Fishing Began</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Days Fished</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Date of Landing</element>
+                <hidden>false</hidden>
+                <default_value>SYSTEM</default_value>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Time of Landing</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+            </report_element>
+            <report_element>
+                <element>Number of Observers</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Tender Offload Number</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Stat Area Worksheet</element>
+                <hidden>false</hidden>
+            </report_element>
+            <report_element>
+                <element>Dock Delivery</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+                <allow_default_value>true</allow_default_value>
+                <allow_default_from_report>true</allow_default_from_report>
+            </report_element>
+            <report_element>
+                <element>Partial Delivery</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Last Delivery for Trip</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Generate Tally Sheet button</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Tally Invoice</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+        </crab_report_elements>
+        <tally_table_column_elements>
+            <report_element>
+                <element>Stat Area</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Pot Lifts</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Species</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Species Name</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Cond</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Cond Name</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Disp Name</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Price</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>P/A</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Size/Grade</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Tare</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Post Tare</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Number</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Brailers</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Amount</element>
+                <hidden>false</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Calc No</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Sold Wgt</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Ttl Tare</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+            <report_element>
+                <element>Avg Wt</element>
+                <hidden>true</hidden>
+                <allow_hiding>true</allow_hiding>
+            </report_element>
+        </tally_table_column_elements>
+        <printed_copy>
+            <color>White</color>
+            <label>PURCHASER</label>
+            <background>false</background>
+            <block>false</block>
+        </printed_copy>
+        <printed_copy>
+            <color>White</color>
+            <label>SELLER</label>
+            <background>false</background>
+            <block>false</block>
+        </printed_copy>
+    </workstation_config>
+</workstation_info>

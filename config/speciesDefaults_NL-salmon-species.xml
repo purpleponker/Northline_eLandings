@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<species_defaults>
+    <schema_version>5.9</schema_version>
+    <species_default>
+        <species name="Kings">410</species>
+        <condition_code name="Whole">1</condition_code>
+        <product_item_template>
+            <product_code name="Whole">1</product_code>
+            <product_type name="Primary">P</product_type>
+            <price>0.0</price>
+        </product_item_template>
+    </species_default>
+    <species_default>
+        <species name="Reds">420</species>
+        <condition_code name="Whole">1</condition_code>
+        <product_item_template>
+            <product_code name="Whole">1</product_code>
+            <product_type name="Primary">P</product_type>
+            <price>0.0</price>
+        </product_item_template>
+    </species_default>
+    <species_default>
+        <species name="Silvers">430</species>
+        <condition_code name="Whole">1</condition_code>
+        <product_item_template>
+            <product_code name="Whole">1</product_code>
+            <product_type name="Primary">P</product_type>
+            <price>0.0</price>
+        </product_item_template>
+    </species_default>
+    <species_default>
+        <species name="Pinks">440</species>
+        <condition_code name="Whole">1</condition_code>
+        <product_item_template>
+            <product_code name="Whole">1</product_code>
+            <product_type name="Primary">P</product_type>
+            <price>0.0</price>
+        </product_item_template>
+    </species_default>
+    <species_default>
+        <species name="Chums">450</species>
+        <condition_code name="Whole">1</condition_code>
+        <product_item_template>
+            <product_code name="Whole">1</product_code>
+            <product_type name="Primary">P</product_type>
+            <price>0.0</price>
+        </product_item_template>
+    </species_default>
+    <species_default>
+        <species name="Salmon, Mixed">460</species>
+        <condition_code name="Whole">1</condition_code>
+        <product_item_template>
+            <product_code name="Whole">1</product_code>
+            <product_type name="Primary">P</product_type>
+            <price>0.0</price>
+        </product_item_template>
+    </species_default>
+</species_defaults>

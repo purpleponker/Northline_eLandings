@@ -1,2 +1,2 @@
-## tLandings configuration and signin
+## tLandings configuration and sign in
 not yet implemented

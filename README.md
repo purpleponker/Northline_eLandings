@@ -2,7 +2,10 @@
 documentation on Northline eLandings fish ticketing
 
 ## laptop sign in and launching instructions
-see [instructions markdown](instrs/instructions.md)
+see [laptop login instructions](instrs/instructions.md)
 
 ## elandings / tLandings configuration and sign in
-see [tlandings markdown](instrs/tLandings.md)
+see [tlandings sign in and ticketing](instrs/tLandings.md)
+
+## configuration profiles for eLandings
+see [configuration profiles](config)
