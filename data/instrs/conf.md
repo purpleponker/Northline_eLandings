@@ -1,6 +1,8 @@
 # Configuration profiles for eLandings
 this directory includes configuration profiles which can be downloaded for importing into eLandings. Once a profile has been imported it can then be used to configure USB drives to be distributed to Tenders.
 
+The Processor Tender Interface program is needed for USB configuration can be found with installation instructions [Here](https://elandings.atlassian.net/wiki/spaces/doc/pages/65667094/2024+PTI+Download+Instructions)
+
 ## config profile
 [configuration profile](../config/cfg_NL_Salmon.xml) for the Hannah operation supplied to a specified tender, contains information for the bulk of the fish ticket.
 
