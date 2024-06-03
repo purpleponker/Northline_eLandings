@@ -1,9 +1,9 @@
 [configuration profiles](#configuration-profiles-for-eLandings)
 * [operation profile](../config/cfg_NL_Salmon.xml)
 * [species profile](../config/speciesDefaults_NL-salmon-species.xml)
-* [importing a profile](##importing-a-config-profile)
+* [importing a profile](#importing-a-config-profile)
   
-[uploading reports](##uploading-reports)
+[uploading reports](#uploading-reports)
 
 # Configuration profiles for eLandings
 this directory includes configuration profiles which can be downloaded for importing into eLandings. Once a profile has been imported it can then be used to configure USB drives to be distributed to Tenders.
