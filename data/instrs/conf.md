@@ -1,3 +1,9 @@
+[configuration profiles](#configuration-profiles-for-eLandings)
+* [operation profile](../config/cfg_NL_Salmon.xml)
+* [species profile](../config/speciesDefaults_NL-salmon-species.xml)
+* [importing a profile](##importing-a-config-profile)
+[uploading reports](##uploading-reports)
+
 # Configuration profiles for eLandings
 this directory includes configuration profiles which can be downloaded for importing into eLandings. Once a profile has been imported it can then be used to configure USB drives to be distributed to Tenders.
 
@@ -18,6 +24,12 @@ start by downloading <a href="https://github.com/purpleponker/Northline_eLanding
 - drag and drop the desired profiles into the file explorer browser for the PTI program, be sure NOT to drop the files into one of the internal folders
 
 ![drag files here](../imgs/drag_here.png)
+
+## uploading reports
+to up tLandings reports to eLandings with the PTI
+![uploading reports](../imgs/upload.png)
+
+more uploading options can be see [here](https://elandings.atlassian.net/wiki/spaces/doc/pages/501285690/Uploading+Groundfish+Tickets+from+tLandings+with+the+PTI+into+eLandings)
 
 [return to home](https://github.com/purpleponker/Northline_eLandings/blob/main/README.md)
 
