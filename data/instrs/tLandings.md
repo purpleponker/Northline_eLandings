@@ -1,7 +1,7 @@
 ## tLandings configuration and sign in
 
 ### log in
-login is done simply by using the supplied Tender User ID along with your designated password
+login is done simply by using the supplied Tender User ID along with your designated password. northline by default
 
 ### generating a fish ticket
 will implement once eLandings login credentials are established
