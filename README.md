@@ -13,3 +13,5 @@ documentation on Northline Seafoods eLandings and tLandings fish ticketing
 
 * ### configuration profiles for eLandings 
     see [configuration profiles](https://github.com/purpleponker/Northline_eLandings/blob/main/data/instrs/conf.md)
+* ### uploading reports to elandings
+    see [uploading reports](https://github.com/purpleponker/Northline_eLandings/blob/main/data/instrs/conf.md)
