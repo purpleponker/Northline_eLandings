@@ -528,12 +528,12 @@
             </report_element>
             <report_element>
                 <element>Amount</element>
-                <hidden>false</hidden>
+                <hidden>true</hidden>
                 <allow_hiding>true</allow_hiding>
             </report_element>
             <report_element>
                 <element>Calc No</element>
-                <hidden>false</hidden>
+                <hidden>true</hidden>
                 <allow_hiding>true</allow_hiding>
             </report_element>
             <report_element>

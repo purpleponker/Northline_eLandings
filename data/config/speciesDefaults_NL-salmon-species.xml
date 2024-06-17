@@ -7,13 +7,13 @@
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Good Qual</size_grade>
+            <size_grade>Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Under Qual</size_grade>
+            <size_grade>Non-Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
     </species_default>
@@ -23,13 +23,13 @@
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Good Qual</size_grade>
+            <size_grade>Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Under Qual</size_grade>
+            <size_grade>Non-Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
     </species_default>
@@ -40,13 +40,13 @@
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Good Qual</size_grade>
+            <size_grade>Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Under Qual</size_grade>
+            <size_grade>Non-Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
     </species_default>
@@ -57,13 +57,13 @@
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Good Qual</size_grade>
+            <size_grade>Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Under Qual</size_grade>
+            <size_grade>Non-Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
     </species_default>
@@ -74,13 +74,13 @@
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Good Qual</size_grade>
+            <size_grade>Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Under Qual</size_grade>
+            <size_grade>Non-Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
     </species_default>
@@ -91,13 +91,13 @@
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Good Qual</size_grade>
+            <size_grade>Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
         <product_item_template>
             <product_code name="Whole">1</product_code>
             <product_type name="Primary">P</product_type>
-            <size_grade>Under Qual</size_grade>
+            <size_grade>Non-Floating</size_grade>
             <price>0.0</price>
         </product_item_template>
     </species_default>
