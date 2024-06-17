@@ -5,10 +5,10 @@
         <workstation_id>2885</workstation_id>
         <vessel>99998</vessel>
         <location>NL Salmon</location>
-        <installed_by_user>pti</installed_by_user>
+        <installed_by_user>DAWN JOHNSON</installed_by_user>
         <operating_system>OS</operating_system>
         <operating_system_version>1.0</operating_system_version>
-        <install_date>2024-05-21T06:45:39.969-08:00</install_date>
+        <install_date>2024-05-31T09:40:53.959-08:00</install_date>
         <destination_mail_address>elandings@alaska.gov</destination_mail_address>
         <transmit_type>File</transmit_type>
         <home_directory>data</home_directory>
@@ -23,14 +23,14 @@
         <landing_report_number_threshold>1</landing_report_number_threshold>
         <landing_report_number_request_increment>30</landing_report_number_request_increment>
         <fish_ticket_number_threshold>1</fish_ticket_number_threshold>
-        <fish_ticket_number_request_increment>30</fish_ticket_number_request_increment>
+        <fish_ticket_number_request_increment>60</fish_ticket_number_request_increment>
         <test_mode>Training</test_mode>
         <version_label>2023.12.28-13.17.15</version_label>
         <build_number>0</build_number>
         <dock_delivery>false</dock_delivery>
         <default_date_fishing_began>false</default_date_fishing_began>
         <default_time_of_landing>true</default_time_of_landing>
-        <generate_tally_with_ticket>false</generate_tally_with_ticket>
+        <generate_tally_with_ticket>true</generate_tally_with_ticket>
         <default_number_of_tally_sheets_to_print>2</default_number_of_tally_sheets_to_print>
         <default_stat_area>false</default_stat_area>
         <default_nearest_bay_or_headland>false</default_nearest_bay_or_headland>
@@ -43,7 +43,7 @@
         <update_local_vessel_list>true</update_local_vessel_list>
         <missing_tare_weight_warning>false</missing_tare_weight_warning>
         <compress_webservices_data>true</compress_webservices_data>
-        <tool_bar_color>Gray</tool_bar_color>
+        <tool_bar_color>Purple</tool_bar_color>
         <type_of_landing_report>B</type_of_landing_report>
         <use_signature_pad>false</use_signature_pad>
         <legacy_logbook_enabled>false</legacy_logbook_enabled>
@@ -198,12 +198,12 @@
             </report_element>
             <report_element>
                 <element>Generate Tally Sheet button</element>
-                <hidden>true</hidden>
+                <hidden>false</hidden>
                 <allow_hiding>true</allow_hiding>
             </report_element>
             <report_element>
                 <element>Tally Invoice</element>
-                <hidden>true</hidden>
+                <hidden>false</hidden>
                 <allow_hiding>true</allow_hiding>
             </report_element>
             <report_element>
@@ -533,7 +533,7 @@
             </report_element>
             <report_element>
                 <element>Calc No</element>
-                <hidden>true</hidden>
+                <hidden>false</hidden>
                 <allow_hiding>true</allow_hiding>
             </report_element>
             <report_element>
