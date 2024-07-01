@@ -90,6 +90,7 @@
             <report_element>
                 <element>Date Fishing Began</element>
                 <hidden>false</hidden>
+                <default_prior_report>true</default_prior_report>
                 <allow_default_value>true</allow_default_value>
                 <allow_default_from_report>true</allow_default_from_report>
             </report_element>
@@ -114,6 +115,7 @@
             <report_element>
                 <element>Fishing Period</element>
                 <hidden>false</hidden>
+                <default_prior_report>true</default_prior_report>
                 <allow_hiding>true</allow_hiding>
                 <allow_default_value>true</allow_default_value>
                 <allow_default_from_report>true</allow_default_from_report>
@@ -121,13 +123,14 @@
             <report_element>
                 <element>Nearest Bay or Headland</element>
                 <hidden>false</hidden>
+                <default_prior_report>true</default_prior_report>
                 <allow_hiding>true</allow_hiding>
                 <allow_default_value>true</allow_default_value>
                 <allow_default_from_report>true</allow_default_from_report>
             </report_element>
             <report_element>
                 <element>Chill Type</element>
-                <hidden>true</hidden>
+                <hidden>false</hidden>
                 <default_prior_vessel>true</default_prior_vessel>
                 <allow_hiding>true</allow_hiding>
                 <allow_default_from_vessel>true</allow_default_from_vessel>
@@ -150,6 +153,7 @@
             <report_element>
                 <element>Stat Area Worksheet</element>
                 <hidden>false</hidden>
+                <default_prior_report>true</default_prior_report>
                 <allow_hiding>true</allow_hiding>
                 <allow_default_value>true</allow_default_value>
                 <allow_default_from_report>true</allow_default_from_report>
@@ -508,7 +512,7 @@
             </report_element>
             <report_element>
                 <element>Tare</element>
-                <hidden>true</hidden>
+                <hidden>false</hidden>
                 <allow_hiding>true</allow_hiding>
             </report_element>
             <report_element>
